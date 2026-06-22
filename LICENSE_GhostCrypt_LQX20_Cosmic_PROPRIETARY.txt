@@ -1,0 +1,206 @@
+# GhostCrypt LQX-20 Cosmic Proprietary License and Export-Control Notice
+
+Copyright (c) 2025-2026 Lackadaisical Security. All rights reserved.
+
+This proprietary license supersedes and replaces the prior dual-license notice for GhostCrypt LQX-20 Cosmic unless Lackadaisical Security expressly states otherwise in a signed written agreement.
+
+## 1. Definitions
+
+"Software" means GhostCrypt LQX-20 Cosmic, including all source code, object code, binaries, scripts, build files, documentation, cryptographic primitives, test suites, datasets, models, keys, protocols, interfaces, algorithms, design notes, configuration files, and any related materials supplied by or on behalf of Lackadaisical Security.
+
+"Licensor" means Lackadaisical Security and its authorized representatives.
+
+"You" or "Licensee" means any individual, company, institution, organization, government entity, or other party that accesses, receives, downloads, views, uses, evaluates, copies, modifies, integrates, or distributes the Software.
+
+"Authorized Use" means only the use expressly permitted in a separate written agreement signed or otherwise expressly approved in writing by Licensor.
+
+"Export-Controlled Material" means any Software, technical data, encryption technology, controlled source code, documentation, defense-related material, know-how, or assistance that is subject to the U.S. Export Administration Regulations (EAR), International Traffic in Arms Regulations (ITAR), sanctions regulations, or any other applicable export-control law.
+
+## 2. Proprietary Status; No Open-Source Grant
+
+The Software is proprietary, confidential, and owned by Licensor. All rights not expressly granted are reserved.
+
+No open-source, public, implied, exhaustion, estoppel, or other license is granted by publication, possession, repository access, package access, demonstration, disclosure, delivery, or availability of the Software.
+
+Unless you have a separate written license from Licensor, you may not use, copy, modify, merge, publish, distribute, sublicense, sell, lease, host, provide access to, reverse engineer, decompile, disassemble, benchmark publicly, train models on, or create derivative works from the Software.
+
+## 3. Limited Evaluation Access
+
+If Licensor provides explicit written permission for evaluation, You may evaluate the Software only for the stated evaluation purpose, only during the stated evaluation period, and only in a secure environment under Your direct control. Evaluation access does not include production use, commercial use, redistribution, publication, reverse engineering, model training, or disclosure to third parties.
+
+Evaluation access may be revoked at any time. Upon revocation or expiration, You must immediately stop using the Software and destroy or return all copies, extracts, derivatives, notes containing non-public technical details, and related materials unless Licensor provides written instructions otherwise.
+
+## 4. Commercial and Internal Use
+
+Commercial use, internal business use, hosted service use, resale, integration into products or services, managed-service use, government use, academic institutional use, laboratory use, military use, contractor use, and any use involving third-party access require a separate written license from Licensor.
+
+A written license may impose additional restrictions, fees, audit rights, export-control requirements, support terms, confidentiality terms, attribution requirements, security requirements, and termination conditions.
+
+## 5. Prohibited Conduct
+
+You may not, without Licensor's prior written authorization:
+
+1. copy, reproduce, redistribute, mirror, publish, or make the Software available to any third party;
+2. modify, adapt, port, translate, merge, fork, or create derivative works from the Software;
+3. remove, alter, conceal, or misrepresent proprietary notices, copyright notices, license notices, watermarks, telemetry markers, cryptographic identifiers, or attribution markers;
+4. reverse engineer, decompile, disassemble, decrypt, derive, extract, or attempt to discover source code, algorithms, protocols, keys, models, datasets, internal logic, or trade secrets except where such restriction is prohibited by applicable law;
+5. use the Software to train, fine-tune, distill, evaluate, benchmark, seed, or improve any artificial intelligence, machine-learning, language-model, code-generation, security-analysis, or cryptographic system without written permission;
+6. use the Software for unlawful surveillance, unauthorized access, credential theft, malware, ransomware, botnets, exploitation of third-party systems, evasion of lawful security controls, or any activity that violates applicable law;
+7. use the Software in weapons systems, military targeting systems, autonomous offensive systems, command-and-control systems, cyber-offensive operations, intelligence operations, or other restricted military, defense, nuclear, missile, chemical, biological, or sanctioned end uses without all required licenses, authorizations, and Licensor's express written approval;
+8. provide access to the Software to any person, entity, country, region, or end user prohibited by export-control, sanctions, anti-terrorism, or anti-boycott laws; or
+9. knowingly assist any third party in doing any of the above.
+
+## 6. Confidentiality
+
+The Software, non-public documentation, technical details, cryptographic methods, design materials, performance data, security architecture, source code, and related communications are confidential unless Licensor has expressly released them publicly without confidentiality restrictions.
+
+You must protect confidential materials using at least reasonable care and no less than the care You use to protect Your own most sensitive technical information. You may disclose confidential materials only to personnel who have a legitimate need to know, are bound by written confidentiality obligations, and are legally eligible to receive the materials under applicable export-control and sanctions laws.
+
+## 7. Export-Control and Sanctions Compliance Notice
+
+IMPORTANT: The Software may contain cryptographic functionality, security technology, technical data, controlled source code, or other material subject to U.S. and non-U.S. export-control, sanctions, customs, import, and anti-boycott laws. These laws may include, without limitation:
+
+- the U.S. Export Administration Regulations, 15 C.F.R. Parts 730-774 (EAR);
+- the International Traffic in Arms Regulations, 22 C.F.R. Parts 120-130 (ITAR);
+- regulations and sanctions programs administered by the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC);
+- U.S. anti-boycott laws and regulations;
+- European Union, United Kingdom, United Nations, and other applicable sanctions and export-control regimes; and
+- local import, encryption, cybersecurity, and technology-transfer laws in the jurisdiction where the Software is accessed, used, transferred, or stored.
+
+You are solely responsible for determining the applicable export classification, obtaining any required licenses, authorizations, registrations, commodity classifications, encryption reviews, governmental approvals, or sanctions clearances, and complying with all applicable laws before exporting, reexporting, transferring, releasing, disclosing, downloading, publishing, providing access to, or otherwise making the Software available to any person or destination.
+
+No representation is made that the Software is eligible for export, reexport, transfer, license exception, public-release treatment, mass-market treatment, open-source treatment, or any particular Export Control Classification Number (ECCN), United States Munitions List (USML) category, or Harmonized Tariff Schedule classification.
+
+Current classification status unless separately stated in writing by Licensor:
+
+- ECCN: TO BE DETERMINED / NOT PROVIDED.
+- USML Category: TO BE DETERMINED / NOT PROVIDED.
+- Encryption classification: TO BE DETERMINED / NOT PROVIDED.
+- ITAR status: NOT REPRESENTED; review required before defense-related access, release, export, reexport, transfer, or use.
+
+## 8. ITAR Warning
+
+The Software is not intended to be exported, reexported, retransferred, released, disclosed, or provided as technical data, defense software, a defense service, or a defense article without prior legal classification review and all required U.S. Government authorizations.
+
+If the Software, any derivative, any documentation, any integration, any technical assistance, or any related service is determined to be subject to ITAR, You may not export, reexport, retransfer, disclose, release, or provide access to it to any foreign person, foreign entity, foreign government, foreign destination, or non-U.S. person, including by visual inspection, oral disclosure, remote access, cloud access, source-code repository access, technical support, training, or deemed export, except as authorized by DDTC and applicable law.
+
+ITAR-controlled technical data and defense services may require registration, licensing, technical assistance agreements, manufacturing license agreements, or other approvals before access, transfer, disclosure, support, or collaboration. You must not treat publication, repository availability, possession, or receipt of the Software as permission to export or disclose ITAR-controlled material.
+
+## 9. EAR and Encryption Warning
+
+The Software may include encryption source code, encryption object code, cryptographic activation features, security tools, or other encryption items that may be subject to the EAR, including controls applicable to encryption commodities, software, and technology.
+
+Export, reexport, transfer, or release of encryption software or technology may require classification, review, reporting, license exception eligibility analysis, license authorization, restrictions for government end users, restrictions for certain destinations, and restrictions for denied or sanctioned parties.
+
+You may not rely on any license exception, public availability theory, mass-market theory, open-source theory, or other exemption unless You have independently confirmed that it applies to Your exact item, version, transaction, destination, end user, and end use.
+
+## 10. Restricted Parties, Destinations, and End Uses
+
+You represent and warrant that You are not, and are not acting on behalf of, any person or entity that is:
+
+1. located in, organized under the laws of, ordinarily resident in, or owned or controlled by a comprehensively sanctioned or embargoed country, region, or territory;
+2. listed on, owned by, controlled by, or acting for a party listed on any applicable restricted-party, denied-party, blocked-person, sanctions, debarred, military end-user, or proliferation-related list;
+3. involved in nuclear, missile, chemical, biological, weapons-of-mass-destruction, restricted military, restricted intelligence, or restricted cyber operations without all required authorizations; or
+4. prohibited from receiving the Software under applicable export-control, sanctions, anti-terrorism, or cybersecurity laws.
+
+You must immediately stop using the Software and notify Licensor if You become a restricted party, become subject to sanctions, lose export eligibility, learn of a prohibited transfer, or discover that the Software has been accessed by an unauthorized person.
+
+## 11. No Transfer to Foreign Persons Without Review
+
+Before granting any foreign person access to the Software, including employees, contractors, consultants, students, collaborators, customers, cloud administrators, repository users, support personnel, or automated systems operated for or by foreign persons, You must complete all required export-control classification and authorization steps.
+
+Access by a foreign person may constitute an export, reexport, release, disclosure, transfer, or deemed export even if the access occurs inside the United States or inside Your own organization.
+
+## 12. Security Requirements
+
+You must implement reasonable technical and administrative controls to prevent unauthorized access, export, reexport, transfer, disclosure, extraction, copying, or exfiltration of the Software. At minimum, You must:
+
+1. restrict access to authorized personnel only;
+2. maintain access logs and repository logs where practical;
+3. use strong authentication for repositories, build systems, package systems, and storage locations;
+4. avoid storing controlled materials in public repositories, public package registries, public cloud buckets, public issue trackers, or public AI tools;
+5. prevent unauthorized model training, code ingestion, telemetry upload, or automated disclosure to third-party AI systems;
+6. promptly report suspected unauthorized access, disclosure, export, or compromise to Licensor; and
+7. preserve relevant logs and evidence after any suspected violation.
+
+## 13. Ownership and Feedback
+
+Licensor owns all right, title, and interest in and to the Software, including all intellectual property rights, trade secrets, algorithms, cryptographic designs, documentation, and derivative works created by or for Licensor.
+
+If You submit comments, bug reports, patches, suggestions, improvements, ideas, test results, or other feedback, You grant Licensor a perpetual, irrevocable, worldwide, royalty-free license to use, reproduce, modify, distribute, commercialize, and otherwise exploit that feedback without restriction or obligation, unless a separate written agreement states otherwise.
+
+## 14. Third-Party Components
+
+The Software may interoperate with or reference third-party software, models, datasets, libraries, APIs, or standards. Third-party materials remain subject to their own licenses and restrictions. This license does not grant rights to any third-party material.
+
+## 15. U.S. Government Rights
+
+The Software is commercial computer software and commercial computer software documentation developed exclusively at private expense. Any U.S. Government use, reproduction, release, modification, disclosure, or transfer is restricted by this license and by applicable federal acquisition regulations, including FAR 12.212 and DFARS 227.7202, as applicable.
+
+No government user receives rights greater than those expressly granted in a signed written agreement with Licensor.
+
+## 16. Compliance Records and Audit
+
+You must maintain records sufficient to demonstrate compliance with this license and applicable export-control and sanctions laws. Upon reasonable request, You must provide written certification of compliance, including confirmation of access controls, export classification review, restricted-party screening, and destruction or return of materials after termination.
+
+Licensor may suspend or terminate access if Licensor reasonably believes that continued access may violate this license, export-control laws, sanctions laws, security requirements, or Licensor's rights.
+
+## 17. Termination
+
+This license terminates automatically if You violate any term, exceed the scope of any written authorization, fail to comply with export-control or sanctions obligations, become a restricted party, or provide false or incomplete compliance information.
+
+Upon termination, You must immediately stop all use of the Software and destroy or return all copies, derivatives, excerpts, documentation, technical notes, and controlled materials. Sections concerning ownership, confidentiality, export control, restricted parties, audit, disclaimers, liability limitations, remedies, and dispute provisions survive termination.
+
+## 18. Injunctive Relief
+
+Unauthorized use, disclosure, export, copying, reverse engineering, redistribution, or model training may cause irreparable harm for which monetary damages may be insufficient. Licensor may seek injunctive, equitable, technical, administrative, or legal relief without posting bond, in addition to any other available remedies.
+
+## 19. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS," "AS AVAILABLE," AND WITH ALL FAULTS. LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, SECURITY, AVAILABILITY, EXPORT ELIGIBILITY, REGULATORY COMPLIANCE, AND ERROR-FREE OPERATION.
+
+YOU ARE SOLELY RESPONSIBLE FOR TESTING, VALIDATING, SECURING, CLASSIFYING, LICENSING, AND LAWFULLY USING THE SOFTWARE.
+
+## 20. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, PUNITIVE, OR ENHANCED DAMAGES, INCLUDING LOST PROFITS, LOST REVENUE, LOST DATA, BUSINESS INTERRUPTION, SECURITY INCIDENTS, EXPORT-CONTROL PENALTIES, SANCTIONS PENALTIES, PROCUREMENT LOSSES, OR THIRD-PARTY CLAIMS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+LICENSOR'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS LICENSE WILL NOT EXCEED THE AMOUNT YOU PAID LICENSOR FOR THE SOFTWARE DURING THE TWELVE MONTHS BEFORE THE EVENT GIVING RISE TO LIABILITY, OR USD $100 IF YOU PAID NOTHING.
+
+## 21. Indemnification
+
+You agree to defend, indemnify, and hold harmless Licensor from and against any claims, damages, penalties, fines, sanctions, costs, expenses, attorney fees, losses, or liabilities arising from Your access to or use of the Software, Your breach of this license, Your violation of export-control or sanctions laws, Your prohibited conduct, Your unauthorized disclosure, or Your integration or distribution of the Software.
+
+## 22. Governing Law and Venue
+
+Unless a separate written agreement states otherwise, this license is governed by the laws of the United States and the laws of the state or jurisdiction selected by Licensor, without regard to conflict-of-law rules. Any dispute must be brought in a court of competent jurisdiction selected by Licensor, unless applicable law requires otherwise.
+
+## 23. Severability; No Waiver
+
+If any provision is held invalid or unenforceable, the remaining provisions remain in effect, and the invalid provision will be modified to the minimum extent necessary to make it enforceable. Failure to enforce any provision is not a waiver.
+
+## 24. Entire Agreement
+
+This license, together with any signed written agreement between You and Licensor, is the entire agreement governing the Software. If a signed written agreement conflicts with this license, the signed written agreement controls only for the specific parties, scope, and materials covered by that agreement.
+
+## 25. Contact
+
+Licensing, commercial access, legal inquiries, export-control questions, and authorization requests must be directed to Lackadaisical Security:
+
+- Website: https://lackadaisical-security.com
+- Sales: sales@lackadaisical-security.com
+- Security: security@lackadaisical-security.com
+- Support: support@lackadaisical-security.com
+- Research / Legal Contact: lackadaisicalresearch@pm.me
+- XMPP: thelackadaisicalone@xmpp.jp
+
+## 26. Required Notice for Copies
+
+Any authorized copy of the Software or documentation must retain the following notice:
+
+"GhostCrypt LQX-20 Cosmic is proprietary software owned by Lackadaisical Security. All rights reserved. This software may contain cryptographic functionality and may be subject to U.S. and non-U.S. export-control and sanctions laws, including the EAR, ITAR, and OFAC regulations. No export, reexport, transfer, disclosure, use, modification, distribution, reverse engineering, or AI/model training is permitted except as expressly authorized in writing by Lackadaisical Security and applicable law."
+
+---
+
+© 2025-2026 Lackadaisical Security. All rights reserved.
+"Where paranoia meets precision."
