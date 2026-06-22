@@ -173,7 +173,7 @@ Please do not submit proprietary exploit chains, weaponized payloads, third-part
 Public documentation structure:
 
 ```text
-GhostCrypt-docs/
+GhostCrypt-LQX20-Cosmic-Docs/
 ├── README.md              # Public product overview and compliance notice
 ├── LICENSE                # Proprietary license and export-control notice
 ├── EXPORT_CONTROL.md      # Export, sanctions, ITAR/EAR warning page
